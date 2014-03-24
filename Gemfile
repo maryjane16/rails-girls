@@ -5,8 +5,10 @@ gem 'rails', '4.0.4'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+#gem 'mini_magick', '3.5.0'
 gem 'carrierwave'
 gem 'devise'
+gem 'gosu', '~> 0.7.48'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
